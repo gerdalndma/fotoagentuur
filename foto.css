@@ -17,10 +17,10 @@ main, section, .about, .gallery {
   padding-left: 5px;
 }
 .about p {
-  max-width: 1000px;   
-  margin: 0;          
-  line-height: 1.6;   
-  text-align: left;   
+  max-width: 1000px;
+  margin: 0 auto;      
+  line-height: 1.6;     
+  text-align: left;     
 }
 
 header {
@@ -143,5 +143,6 @@ nav a:hover {
 .gallery-grid {
   justify-content: flex-start; 
 }
+
 
 

@@ -47,7 +47,6 @@ nav a:hover {
   color: #000;
 }
 
-/* Hero sektsioon */
 .hero {
   display: flex;
   align-items: center;
@@ -89,8 +88,7 @@ nav a:hover {
   .hero h1 {
     font-size: 32px;
   }
-}
-
+  
 .gallery {
   margin-top: 40px;
 }
@@ -136,7 +134,6 @@ nav a:hover {
     width: 100%;
     height: auto;
   }
-}
 
 .about {
   padding-left: 60px;   
@@ -146,4 +143,5 @@ nav a:hover {
 .gallery-grid {
   justify-content: flex-start; 
 }
+
 

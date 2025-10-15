@@ -143,14 +143,7 @@ nav a:hover {
   padding-right: 60px;
 }
 
-.about .section-title {
-  margin-left: 25px;       
-}
-
-.gallery {
-  margin-left: 25px;      
-}
-
 .gallery-grid {
   justify-content: flex-start; 
 }
+

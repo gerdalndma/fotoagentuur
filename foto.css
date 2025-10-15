@@ -1,3 +1,7 @@
+h2.section-title {
+    font-weight: 500; /* Võid kasutada ka 400, kui tahad veel õhemat */
+}
+
 .logo a {
   display: inline-block;
 }
@@ -146,4 +150,5 @@ nav a:hover {
 
 .gallery-grid {
   justify-content: flex-start; 
+
 }
